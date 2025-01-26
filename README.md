@@ -64,8 +64,8 @@ The results from the evaluation are summarized below:
 ## Repository Structure
 - `Final Report-1.pdf`: The detailed project report.
 - `README.md`: This file, providing an overview of the project.
-- `Final Report-1.pdf`: Detailed insights into the project's methodology and results.
-- `data/`: Directory containing the dataset used for evaluation.
+- `CSE_576_2024F_class_project_2-main/`: Directory containing the implementation code for each approach.
+- `CSE_576_2024F_class_project_2-main/LR-final-dataset.csv`: File containing the dataset used for evaluation.
 
 ## How to Use
 1. Clone the repository:
