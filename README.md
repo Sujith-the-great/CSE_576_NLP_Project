@@ -48,11 +48,11 @@ The results from the evaluation are summarized below:
 - **Deductive Verification** and **Location-Based Error Correction** were the weakest performers, highlighting challenges in decomposing legal reasoning tasks.
 
 ## Individual Contributions
+- **Bala Sujith Potineni**: Implemented the Deductive Verification Approach (20%).
 - **Chao-Shiang, Chen**: Implemented the TREACC Approach (20%).
 - **Ankitha Dongerkerry Pai**: Implemented the Self-Verification Approach (20%).
 - **Rakshita Madhavan**: Implemented the Attention-based Verification Approach (20%).
 - **Suraj Kumar Manylal**: Implemented the Location-Based Error Correction Approach (20%).
-- **Bala Sujith Potineni**: Implemented the Deductive Verification Approach (20%).
 
 ## References
 1. Yu, Fangyi, et al. "Exploring the Effectiveness of Prompt Engineering for Legal Reasoning Tasks." _Annual Meeting of the Association for Computational Linguistics_, 2023.
@@ -72,6 +72,8 @@ The results from the evaluation are summarized below:
    ```
    git clone https://github.com/your-username/HallucinationGuard-Llama.git
    ```
-2. Navigate to the code/ directory to explore the implementation of each reasoning approach.
+2. Navigate to the CSE_576_2024F_class_project_2-main/ directory to explore the implementation of each reasoning approach.
 
 3. Refer to the Final Report-1.pdf for detailed insights into the project's methodology and results.
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
